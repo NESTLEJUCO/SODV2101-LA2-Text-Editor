@@ -1,0 +1,11 @@
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\bin\Debug\LA2-TextEditor-Nestle_Juco.exe.config
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\bin\Debug\LA2-TextEditor-Nestle_Juco.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\bin\Debug\LA2-TextEditor-Nestle_Juco.pdb
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2-TextEditor-Nestle_Juco.csproj.AssemblyReference.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2_TextEditor_Nestle_Juco.Form1.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2_TextEditor_Nestle_Juco.Properties.Resources.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2-TextEditor-Nestle_Juco.csproj.GenerateResource.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2-TextEditor-Nestle_Juco.csproj.CoreCompileInputs.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2-TextEditor-Nestle_Juco.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2-TextEditor-Nestle_Juco.pdb
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA2-TextEditor-Nestle_Juco\obj\Debug\LA2_TextEditor_Nestle_Juco.Form2.resources
